@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+  max-height: 10px; /* Adjust the value as needed */
+}
+
+
+/* h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  justify-content: center;
+} */
