@@ -1,0 +1,13 @@
+.carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+.carousel-item {
+  flex-shrink: 0;
+  height: 200%;
+  width: 130%; /* Adjust width as needed */
+  padding-left: 80px;
+}
