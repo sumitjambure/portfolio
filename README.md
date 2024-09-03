@@ -66,6 +66,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ![Screenshot 2024-09-03 234336](https://github.com/user-attachments/assets/d5911002-adb1-46eb-89c9-819ab2406082)
 
+![Screenshot 2024-09-03 234351](https://github.com/user-attachments/assets/2bcdd7ca-f3e0-45a4-8d67-ad14dad7c913)
+
+![Screenshot 2024-09-03 234451](https://github.com/user-attachments/assets/e9441af3-0083-4c13-bb85-f80b5ce8f2ba)
+
+![Screenshot 2024-09-03 234502](https://github.com/user-attachments/assets/65af2209-4ff9-4cda-b539-930d6ed41671)
+
+
+
+
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
